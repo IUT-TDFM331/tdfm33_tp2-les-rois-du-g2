@@ -6,4 +6,7 @@ Les tests prennent autant de temps car le programme doit trier 50000 entiers à 
 ## Après ajout de la méthode reverseSort
 Rien n'a changé puisque la méthode ajoutée est vide et n'est même pas appelée...
 
+## Après que les autres aient récupérés mon code
+Les tests passent toujours chez eux aussi...
+
 
