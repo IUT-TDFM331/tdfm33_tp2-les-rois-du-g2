@@ -17,4 +17,4 @@ jobs: # list des jobs à effectuer
           distribution: 'adopt'
           cache: maven
       - name: Compiler le projet # On donne un nom au job
-        run: mvn -B -DskipTests clean package # On lance la commande maven qui lance le build du code
+        run: mvn -B -X -DskipTests clean package # On lance la commande maven qui lance le build du code
