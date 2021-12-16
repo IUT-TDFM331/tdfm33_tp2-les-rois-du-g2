@@ -14,3 +14,9 @@ Le commit a été rejeté car le code ne compilait pas.
 
 ## Après correction de l'erreur
 Le commit a été accepté.
+
+## Après décommentation de la méthode badTest
+Le commit a été accepté alors que le test ne passe pas.
+
+## Après ajout du `mvn test`
+Le commit n'a pas été accepté.
