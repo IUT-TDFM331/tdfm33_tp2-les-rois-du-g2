@@ -9,4 +9,5 @@ Rien n'a changé puisque la méthode ajoutée est vide et n'est même pas appel�
 ## Après que les autres aient récupérés mon code
 Les tests passent toujours chez eux aussi...
 
-
+## Après avoir push le `.github/workflows/maven.yml`
+Le commit a été rejeté car le code ne compilait pas.
