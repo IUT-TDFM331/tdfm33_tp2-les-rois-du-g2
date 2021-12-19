@@ -20,3 +20,6 @@ Le commit a été accepté alors que le test ne passe pas.
 
 ## Après ajout du `mvn test`
 Le commit n'a pas été accepté.
+
+##Ajouter une action qui vérifie le formattage du code à chaque commit et pull request sur master
+On peut directement le faire sur IntelliJ, mais je n'ai pas trouvé pour Maven.
